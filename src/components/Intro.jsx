@@ -13,8 +13,7 @@ function Intro() {
               <h1>I'm Dhanujha.</h1>
 
               <p className="intro-position">
-                <span>Full Stack Web Developer</span>
-                <span>Freelancer</span>
+                <span>Full Stack Web &amp; App Developer</span>
               </p>
 
               <a className="button stroke smoothscroll" href="#about" title="">
