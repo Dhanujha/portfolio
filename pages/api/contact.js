@@ -27,6 +27,7 @@ export default async function contactHandler(req, res) {
     res.status(400).json({
       status: "error",
       message: "Something went wrong, please try again",
+      other: e.message
     });
   }
 }
