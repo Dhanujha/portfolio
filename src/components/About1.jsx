@@ -5,19 +5,26 @@ function About1() {
     <div className="row about-content">
       <div className="col-twelve">
         <h3 style={{ color: "#ff0077" }}>Skills</h3>
-        <div className="col-five">
+        <div className="col-three">
           <h2>Libraries &amp; Frameworks</h2>
-          <div className="col-six">
+
+          <ul>
+            <li>ReactJS</li>
+            <li>NextJS</li>
+            <li>React Native</li>
+            <li>ExpressJS</li>
+            <li>Laravel</li>
+          </ul>
+        </div>
+        <div className="col-three">
+          <h2>Languages</h2>
+          <br />
+          <div className="col-twelve">
             <ul>
-              <li>ReactJS</li>
-              <li>NextJS</li>
-              <li>React Native</li>
-            </ul>
-          </div>
-          <div className="col-six">
-            <ul>
-              <li>ExpressJS</li>
-              <li>Laravel</li>
+              <li>JS &amp; TS</li>
+              <li>Java</li>
+              <li>C++</li>
+              <li>PHP</li>
             </ul>
           </div>
         </div>
@@ -32,7 +39,7 @@ function About1() {
             </ul>
           </div>
         </div>
-        <div className="col-four">
+        <div className="col-three">
           <h2>Others</h2>
           <br />
           <div className="col-twelve">
@@ -41,29 +48,6 @@ function About1() {
               <li>LEMP/LAMP Stack</li>
               <li>GraphQL</li>
               <li>Git</li>
-            </ul>
-          </div>
-        </div>
-        <div className="col-twelve">
-          <h2>Languages</h2>
-          <div className="col-three">
-            <ul>
-              <li>JS &amp; TS</li>
-            </ul>
-          </div>
-          <div className="col-three">
-            <ul>
-              <li>Java</li>
-            </ul>
-          </div>
-          <div className="col-three">
-            <ul>
-              <li>C++</li>
-            </ul>
-          </div>
-          <div className="col-three">
-            <ul>
-              <li>PHP</li>
             </ul>
           </div>
         </div>
