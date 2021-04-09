@@ -17,17 +17,17 @@ export default async function contactHandler(req, res) {
   };
   try {
     const d = await axios(config);
-    console.log(d);
-    res.status(200).json({
+    await res.status(200).json({
       status: "success",
       message: "Your message was sent, thank you!",
       other: d,
     });
   } catch (e) {
-    res.status(400).json({
+    console.log(e);
+    await res.status(400).json({
       status: "error",
       message: "Something went wrong, please try again",
-      other: e
+      other: e,
     });
   }
 }
