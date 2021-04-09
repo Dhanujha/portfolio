@@ -14,13 +14,11 @@ function About() {
               <img src="images/personal.jpeg" alt="Profile Picture" />
 
               <p className="lead">
-                I am a Full stack web Developer with professional experience
-                with developing websites using ReactJs, ExpressJS and MySQL. I
-                have good experience in other frameworks like NextJS and Laravel
-                and developed applications using that. I actively participate in
-                coding challenges and solve problems using Python, PHP and
-                Javascript. I love exploring new technologies and bringing to my
-                other projects.
+                I am a Full stack Web and Mobile Apps Developer having
+                professional experience with developing websites and mobile apps
+                using ReactJS, ReactNative and ExpressJS. I actively participate
+                in coding challenges and solve problems using Javascript. I love
+                exploring new technologies and solving real time problems.
               </p>
             </div>
           </div>
