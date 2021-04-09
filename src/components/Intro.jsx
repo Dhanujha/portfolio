@@ -10,7 +10,7 @@ function Intro() {
           <div className="row">
             <div className="col-twelve">
               <h5>Hello, World!</h5>
-              <h1>I'm Dhanujha.</h1>
+              <h1>I'm Dhanujha R.</h1>
 
               <p className="intro-position">
                 <span>Full Stack Web &amp; App Developer</span>
