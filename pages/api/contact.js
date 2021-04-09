@@ -16,13 +16,12 @@ export default async function contactHandler(req, res) {
     data: data,
   };
   try {
-    const d = await axios(config).catch((err) => {
-      console.log(err.message);
-    });
+    const d = await axios(config);
     console.log(d);
     res.status(200).json({
       status: "success",
       message: "Your message was sent, thank you!",
+      other: d,
     });
   } catch (e) {
     res.status(400).json({
