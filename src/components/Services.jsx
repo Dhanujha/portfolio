@@ -8,7 +8,7 @@ function Services() {
       <div className="row section-intro">
         <div className="col-twelve">
           <h5>Services</h5>
-          <h1>What Can I Do For You?</h1>
+          <h1>What I Can Do For You?</h1>
         </div>
       </div>
       <div className="row section-intro">

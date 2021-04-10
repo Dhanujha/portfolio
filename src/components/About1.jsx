@@ -19,37 +19,32 @@ function About1() {
         <div className="col-three">
           <h2>Languages</h2>
           <br />
-          <div className="col-twelve">
-            <ul>
-              <li>JS &amp; TS</li>
-              <li>Java</li>
-              <li>C++</li>
-              <li>PHP</li>
-            </ul>
-          </div>
+          <ul>
+            <li>JS &amp; TS</li>
+            <li>Java</li>
+            <li>C++</li>
+            <li>PHP</li>
+          </ul>
         </div>
         <div className="col-three">
           <h2>DBMS </h2>
           <br />
-          <div className="col-twelve">
-            <ul>
-              <li>MySQL</li>
-              <li>MongoDB</li>
-              <li>Redis</li>
-            </ul>
-          </div>
+
+          <ul>
+            <li>MySQL</li>
+            <li>MongoDB</li>
+            <li>Redis</li>
+          </ul>
         </div>
         <div className="col-three">
           <h2>Others</h2>
           <br />
-          <div className="col-twelve">
-            <ul>
-              <li>Socket.io</li>
-              <li>LEMP/LAMP Stack</li>
-              <li>GraphQL</li>
-              <li>Git</li>
-            </ul>
-          </div>
+          <ul>
+            <li>Socket.io</li>
+            <li>LEMP/LAMP Stack</li>
+            <li>GraphQL</li>
+            <li>Git</li>
+          </ul>
         </div>
       </div>
     </div>
