@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
     <div>
       <meta
         name="description"
-        content="A India based Developer named Dhanujha's Portfolio who offers services like web developing , app developing and maintaining websites and apps."
+        content="A India based Developer named Dhanujha who offers services like web developing , app developing and maintaining websites and apps."
       />
       <meta name="author" content="Dhanujha R" />
       <meta
